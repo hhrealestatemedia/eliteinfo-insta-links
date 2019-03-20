@@ -1,0 +1,16 @@
+html {
+    overflow-y: hidden;
+}
+
+.IndexPageTemplate img {
+    margin-bottom: 25px;
+}
+
+.IndexPageTemplate a {
+    margin-bottom: 20px;
+    display: block;
+}
+
+.IndexPageTemplate a:hover {
+    text-decoration: none;
+}
