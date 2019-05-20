@@ -13,7 +13,5 @@ links:
     url: 'https://eliteinformer.com/monthly-manage/'
   - name: Boost Your Traffic
     url: 'https://eliteinformer.com/traffic-boost/'
-  - name: EliteInformer.com
-    url: 'https://EliteInformer.com'
 ---
 
