@@ -8,10 +8,12 @@ links:
   - name: Real Estate Websites - 20% OFF
     url: 'https://eliteinformer.com/upgrade'
   - name: Facebook Marketing
-    url: 'http://EliteInformer.com/FBM'
+    url: 'https://EliteInformer.com/FBM'
   - name: Monthly Manage Program
     url: 'https://eliteinformer.com/monthly-manage/'
   - name: Boost Your Traffic
     url: 'https://eliteinformer.com/traffic-boost/'
+  - name: Elite Informer - Home
+    url: 'https://EliteInformer.com'
 ---
 
