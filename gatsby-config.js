@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'InstaLinks - Agent Elite',
+    title: 'InstaLinks - Elite Informer',
     description: 'A list of links for use in a Instagram URL for Agent Elite',
   },
   plugins: [

@@ -29,7 +29,7 @@ export const IndexPageTemplate = ({ items }) => {
     <div style={container}>
       <div className="IndexPageTemplate">
           <div className="col-md-4 offset-md-4">
-              <img src="/img/eliteinformer800x200.png" alt="Agent Elite Logo"/>
+              <img src="/img/eliteinformer800x200.png" alt="Elite Informer Logo"/>
               {items.links.map((link, index) => { 
 
                 let url = addhttps(link.url)
